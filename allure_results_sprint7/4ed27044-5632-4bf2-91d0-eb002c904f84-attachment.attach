@@ -1,0 +1,1 @@
+Создаем новый заказ с цветом {'firstName': 'Екатерина', 'lastName': 'Изосимова', 'address': 'Коммунистическая 11', 'metroStation': 4, 'phone': '+7 917 808 59 66', 'rentTime': 5, 'deliveryDate': '2024-06-28', 'comment': 'Saske, come back to Konoha', 'color': []}. Статус ответа 201
